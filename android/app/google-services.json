@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "681399896049",
+    "project_id": "kitaabs-library",
+    "storage_bucket": "kitaabs-library.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681399896049:android:0707d68c25dbb648d82650",
+        "android_client_info": {
+          "package_name": "com.example.kitaabs_library"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEpC6I5WPPMTt2pNrGKqxzIr2Nla0OdnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
